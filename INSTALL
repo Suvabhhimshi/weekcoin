@@ -1,0 +1,9 @@
+Building WeekendCoin
+
+See doc/readme-qt.rst for instructions on building WeekendCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of WeekendCoin.
+
+See doc/build-*.txt for instructions on building weekendcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of WeekendCoin.
